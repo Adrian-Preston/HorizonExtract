@@ -1,0 +1,19 @@
+{
+  "name": "horizonextract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mendixmodelsdk": "^4.56.0",
+    "mendixplatformsdk": "^5.0.0",
+    "when": "^3.7.8"
+  },
+  "devDependencies": {
+    "@types/when": "^2.4.36"
+  }
+}
